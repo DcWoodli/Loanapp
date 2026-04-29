@@ -2,3 +2,4 @@ streamlit
 pickle
 pandas
 numpy
+scikit-learn
